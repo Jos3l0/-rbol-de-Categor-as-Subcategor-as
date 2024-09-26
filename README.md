@@ -1,5 +1,5 @@
 Árbol de Categorías, Subcategorías
-Se trata de un plugin para WordPress que permite mostrar, mediante un shortcode, un árbol que incluye todas las categorías y subcategorías.
+Se trata de un plugin para WordPress que permite mostrar, mediante un shortcode, un árbol que incluye todas las categorías y subcategorías,ademásmuestra la cantidad de entradas
 
 Para utilizarlo, simplemente sigue estos pasos:
 
